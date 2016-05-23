@@ -17,6 +17,8 @@ public class LenguajesCaroline {
     public static void main(String[] args) {
         System.out.println("mi primer programa de lenguajes");// TODO code application logic here
         System.out.println("Esta es otra linea");
+        //hoy veremos constructores y su sobre carga
+        
     }
     
 }
