@@ -12,6 +12,8 @@ public class Zoologico {
         int x=5;
         Animal objeto1=new Animal();
         System.out.println(objeto1.nombre);
+        //Hoy veremos constructores y sobre carga
+        
     }
     
     
