@@ -10,6 +10,7 @@ package constructores;
  * @author T-107
  */
 public class Animal {
+
     String nombre;
     String especie;
     boolean carnivoro;
@@ -30,3 +31,5 @@ public class Animal {
     }
     
 }
+
+  
